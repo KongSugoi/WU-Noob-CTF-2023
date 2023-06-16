@@ -3,15 +3,15 @@
 
 ### Đề bài
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_1.png)
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_2.png)
 
 ### Giải quyết 
 
 Nhìn qua ảnh ta biết được đây là loại mật mã ký hiệu dành cho người khiếm thính. Lên mạng và chúng ta sẽ tìm được cách giải mã.
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_3.png)
 
 `Flag: n00bz{americansignlanguagedecoded}`
 
@@ -19,15 +19,15 @@ Nhìn qua ảnh ta biết được đây là loại mật mã ký hiệu dành c
 
 ### Đề bài
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc2_1.png)
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc2_2.png)
 
 ### Giải quyết
 
 Ta thử sử dụng path viewanalytics thì không có giá trị nào trả về. Thử mở source file và tìm kiếm n00bz{ ta thấy được flag 
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc2_3.png)
 
 `Flag: n00bz{1n5p3ct_3l3m3n7_ftw!}`
 
@@ -35,13 +35,13 @@ Ta thử sử dụng path viewanalytics thì không có giá trị nào trả v�
 
 ### Đề bài 
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc3_1.png)
 
 ### Giải quyết 
 
 Connect đến server đề bài ta nhận được câu hỏi và cách giải quyết chắc chắn đã được nhắn đến trong đề bài rồi. 
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc3_2.png)
 
 Tìm số lần xuất hiện của chữ số x trong dãy từ 1 đến 1 số bất kỳ, nếu trong dãy số trên xuất hiện 1 số mà xuất hiện nhiều số x thì phải tính tổng số lần xuất hiện của x trong đó luôn. Từ điều kiện đề bài, ta viết 1 đoạn code cơ bản và connect nó với server để xử lí
 
@@ -91,15 +91,15 @@ for e in range(0, 1000):
 
 ### Đề bài
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc4_1.png)
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc4_2.png)
 
 ### Giải quyết 
 
 Bài này ta lại thử thêm path viewanalytics ở cuối thì thấy ngay flag 
 
-![misc]()
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc4_3.png)
 
 `Flag: n00bz{7h1s_1s_th3_3nd_0f_g00gl3_f0rm5_fl4g_ch3ck3rs}`
 
@@ -109,18 +109,18 @@ Bài này ta lại thử thêm path viewanalytics ở cuối thì thấy ngay fl
 
 ### Đề bài 
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for1_1.png)
 
 ### Giải quyết 
 
 Bài này muốn ta crack file zip này. Vậy nên ta sử dụng tool tên John The Ripper cùng bộ mật mã Rockyou.txt để crack. 
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for1_2.png)
 
 <p> Nhận được mật khẩu file zip là `1337h4x0r` <p>
 <p> Extract file zip ta lại nhận được 1 file pdf có mật khẩu, lại dùng John The Ripper thôi <p>
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for1_3.png)
 
 <p> Nhận được mật khẩu file pdf là `noobmaster` <p>
 <p> Mở khóa file pdf và nhận được flag <p>
@@ -131,7 +131,7 @@ Bài này muốn ta crack file zip này. Vậy nên ta sử dụng tool tên Joh
 
 ### Đề bài
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for2_1.png)
 
 ### Giải quyết
 
@@ -147,7 +147,7 @@ Ta sẽ chạy thật chậm vid và kiểm tra các mã bit được nhận sau
 
 ### Đề bài
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for3_1.png)
 
 ### Giải quyết
 
@@ -198,7 +198,7 @@ image.show()  # Display the image
 
 Chạy đoạn code ta nhận được bức ảnh 
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for3_2.png)
 
 <p> Quét mã QR nhận được flag <p>
 
@@ -208,21 +208,21 @@ Chạy đoạn code ta nhận được bức ảnh
 
 ### Đề bài
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for4_1.png)
 
 ### Giải quyết
 
 Đây là 1 file pcap, nên ta mở bằng wireshark, follow TCP và nhận được đoạn giao tiếp giữa 1 client và server
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for4_2.png)
 
 Với dữ kiện đề bài, ta nhận ra `vsFTPd 2.3.4` có thể là Vulnerable Service. Tìm kiếm thử trên google
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for4_3.png)
 
 Vậy là chắc chắn được rồi, giờ chuyển đổi thành md5 thôi
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for4_4.png)
 
 `Flag: n00bz{81b0cd2e46476ef93b51a365629b711b}`
 
@@ -230,13 +230,13 @@ Vậy là chắc chắn được rồi, giờ chuyển đổi thành md5 thôi
 
 ### Đề bài
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for5_1.png)
 
 ### Giải quyết
 
 Từ đề bài, ta sử dụng tool stegolsb wavsteg để xử lí
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for5_2.png)
 
 `Flag: n00bz{L5B_1n_w4v_f1l3s?!!!}`
 
@@ -244,7 +244,7 @@ Từ đề bài, ta sử dụng tool stegolsb wavsteg để xử lí
 
 ### Đề bài 
 
-![for]()
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for6_1.png)
 
 ### Giải quyết 
 
@@ -263,5 +263,7 @@ Chú ý: Ở bảng chọn **QSSTV**, chú ý phần **SSTV** tick vào  **Auto 
 Sau đó chạy câu lệnh `paplay -d virtual-cable chall.wav`
 
 Ta sẽ nhận được bức hình có flag
+
+![for](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/for6_2.png)
 
 `Flag: n00bz{beep_bop_you_found_me!}`
