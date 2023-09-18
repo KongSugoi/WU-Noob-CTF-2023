@@ -3,15 +3,15 @@
 
 ### Đề bài
 
-![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_1.png)
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noob-CTF-2023/main/Picture/misc1_1.png)
 
-![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_2.png)
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noob-CTF-2023/main/Picture/misc1_2.png)
 
 ### Giải quyết 
 
 Nhìn qua ảnh ta biết được đây là loại mật mã ký hiệu dành cho người khiếm thính. Lên mạng và chúng ta sẽ tìm được cách giải mã.
 
-![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc1_3.png)
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noob-CTF-2023/main/Picture/misc1_3.png)
 
 `Flag: n00bz{americansignlanguagedecoded}`
 
@@ -19,9 +19,9 @@ Nhìn qua ảnh ta biết được đây là loại mật mã ký hiệu dành c
 
 ### Đề bài
 
-![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc2_1.png)
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noob-CTF-2023/main/Picture/misc2_1.png)
 
-![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noobctf/main/Picture/misc2_2.png)
+![misc](https://raw.githubusercontent.com/KongSugoi/WU-Noob-CTF-2023/main/Picture/misc2_2.png)
 
 ### Giải quyết
 
